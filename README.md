@@ -1,11 +1,11 @@
 # Jean
 
-Focused on high-availability and performance-driven ecosystems. With a solid background in Minecraft infrastructure development since 2016, I build systems where runtime efficiency, scalability, and data integrity are critical factors.
+Focused on high-availability and performance-driven ecosystems. With a solid background in systems infrastructure since 2016, I build environments where runtime efficiency, scalability, and data integrity are primary constraints.
 
 ### Core Expertise
-* **Java & Performance Engineering:** Developing low-latency systems, optimizing memory usage, and implementing asynchronous processing to ensure stability under high load.
-* **Scalable Systems & Economy:** Architecting dynamic and reactive economic systems, applying concepts of supply and demand, batching, and evolutionary persistence.
-* **Clean Architecture:** Strict focus on decoupling and maintainability, transforming complex requirements into testable, scalable, and future-proof code.
+* **Java & Performance Engineering:** Developing low-latency systems, optimizing memory allocation, and designing asynchronous processing flows to ensure stability under heavy load.
+* **Scalable Systems & Architecture:** Architecting high-throughput services and data flows, applying batching strategies and persistence models designed for long-term evolution.
+* **Clean Architecture:** Strong focus on decoupling and maintainability, turning complex requirements into testable, scalable, and future-proof codebases.
 
 ### Technologies
 <div align="left">
