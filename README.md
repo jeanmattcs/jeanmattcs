@@ -1,13 +1,21 @@
 # Jean
 
-Software Engineer focused on high-availability and performance-driven ecosystems. With a solid background in systems infrastructure since 2016, I build environments where runtime efficiency, scalability, and data integrity are the primary constraints.
+Software Engineer building stateful, high-integrity systems where consistency and recovery matter as much as performance.
+I focus on designing runtime architectures that behave predictably under failure — combining batching, controlled state transitions, and deterministic recovery to ensure systems remain correct even under load.
+Currently developing **DynaTrade**, a dynamic market engine for Minecraft servers, where economic behavior emerges from aggregated player activity processed in cycles, with strict guarantees around state persistence, rollback safety, and execution order.
 
-### Core Expertise
-* **Java & Performance Engineering:** Developing low-latency systems, optimizing memory allocation, and implementing non-blocking I/O to ensure stability under massive concurrent load.
-* **Distributed Systems & Scalability:** Architecting high-throughput data pipelines and stateful services, applying advanced batching techniques and evolutionary persistence layers.
-* **Database Management:** Designing and optimizing relational schemas using **MySQL** and **SQL Server**, focusing on query performance, indexing, and ACID compliance for mission-critical data.
-* **Clean Architecture:** Strict focus on decoupling and domain-driven design, transforming complex business requirements into testable, maintainable, and future-proof codebases.
+---
 
+## Core Expertise
+
+### Java & Runtime Systems
+Designing low-latency systems with strong guarantees around execution flow, memory usage, and failure handling.
+### Stateful Systems & Consistency
+Building systems that preserve correctness across crashes, reloads, and high concurrency scenarios using checkpoints, journaling, and deterministic recovery.
+### Architecture & System Design
+Applying clean architecture and domain isolation to keep complex systems maintainable, testable, and extensible without compromising core invariants.
+### Economic Simulation & Control Systems
+Designing controlled dynamic systems where behavior evolves over time based on aggregated signals rather than isolated events.
 ### Technologies
 <div align="left">
   <img src="https://img.shields.io/badge/Java-E31B23?style=for-the-badge&logo=openjdk&logoColor=white" />
