@@ -1,30 +1,45 @@
 # Jean
 
-Software Engineer building stateful, high-integrity systems where consistency and recovery matter as much as performance.
-I focus on designing runtime architectures that behave predictably under failure — combining batching, controlled state transitions, and deterministic recovery to ensure systems remain correct even under load.
-Currently developing **DynaTrade**, a dynamic market engine for Minecraft servers, where economic behavior emerges from aggregated player activity processed in cycles, with strict guarantees around state persistence, rollback safety, and execution order.
+Backend Developer focused on building reliable systems where data consistency and integrity are real priorities, not just concepts.
 
----
+I design runtimes that behave predictably under load and failure — systems that remain correct even when things go wrong. My approach is pragmatic: I think about recovery, consistency, and auditability from the beginning, and I aim to turn complex business rules into clear, deterministic, and maintainable execution flows.
 
-## Core Expertise
+## What I work on
 
-### Java & Runtime Systems
-Designing low-latency systems with strong guarantees around execution flow, memory usage, and failure handling.
-### Stateful Systems & Consistency
-Building systems that preserve correctness across crashes, reloads, and high concurrency scenarios using checkpoints, journaling, and deterministic recovery.
-### Architecture & System Design
-Applying clean architecture and domain isolation to keep complex systems maintainable, testable, and extensible without compromising core invariants.
-### Economic Simulation & Control Systems
-Designing controlled dynamic systems where behavior evolves over time based on aggregated signals rather than isolated events.
-### Technologies
+**High-Availability & Resilient Systems**  
+Designing mechanisms for safe persistence, checkpointing, and state recovery to ensure systems never lose their source of truth.
+
+**System Architecture**  
+Building decoupled systems using asynchronous communication and batch processing, focusing on scalability and long-term stability.
+
+**Performance & Runtime Behavior**  
+Optimizing execution flow, managing resources efficiently, and ensuring stable behavior under load.
+
+**Maintainability & Evolution**  
+Applying Domain-Driven Design and Clean Architecture to keep systems extensible and sustainable as they grow.
+
+## Tech Stack
+
 <div align="left">
+
   <img src="https://img.shields.io/badge/Java-E31B23?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-E31B23?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-1A1A1A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-1A1A1A?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-1A1A1A?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
 </div>
 
 ---
+
+## Stats
+
+<div align="left">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmattcs&layout=compact&theme=dark&title_color=E31B23&text_color=ffffff&bg_color=0d1117" />
+
+</div>
