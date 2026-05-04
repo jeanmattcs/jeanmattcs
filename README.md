@@ -6,7 +6,7 @@ I design runtimes that behave predictably under load and failure — systems tha
 
 ## What I work on
 
-**High-Availability & Resilient Systems**  
+**Consistency-Driven Backend Systems**  
 Designing mechanisms for safe persistence, checkpointing, and state recovery to ensure systems never lose their source of truth.
 
 **System Architecture**  
