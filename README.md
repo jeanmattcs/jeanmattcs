@@ -1,6 +1,6 @@
 # Jean
 
-Backend Developer focused on building reliable systems where data consistency and integrity are real priorities, not just concepts.
+Backend Developer focused on building reliable systems where data consistency and integrity are real priorities.
 
 I design runtimes that behave predictably under load and failure — systems that remain correct even when things go wrong. My approach is pragmatic: I think about recovery, consistency, and auditability from the beginning, and I aim to turn complex business rules into clear, deterministic, and maintainable execution flows.
 
